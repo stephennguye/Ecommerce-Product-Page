@@ -5,7 +5,7 @@ This repository contains a simple **e-commerce product page** built using **HTML
 ---
 
 ## 📸 Demo
-![Product Page Demo]([Product-Page.gif](https://github.com/stephennguye/Ecommerce-Product-Page/blob/main/Product%20Page.gif))
+![Product Page Demo]([Product Page.gif])
 
 ---
 
